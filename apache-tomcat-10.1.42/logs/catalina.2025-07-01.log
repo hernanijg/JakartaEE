@@ -1,0 +1,57 @@
+01-Jul-2025 10:59:18.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.42
+01-Jul-2025 10:59:18.229 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 5 2025 22:35:46 UTC
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.42.0
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Zago\AppData\Local\Programs\Eclipse Adoptium\jdk-23.0.2.7-hotspot
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           23.0.2+7
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+01-Jul-2025 10:59:18.230 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42
+01-Jul-2025 10:59:18.231 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42
+01-Jul-2025 10:59:18.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\conf\logging.properties
+01-Jul-2025 10:59:18.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jul-2025 10:59:18.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Jul-2025 10:59:18.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jul-2025 10:59:18.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+01-Jul-2025 10:59:18.289 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jul-2025 10:59:18.290 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+01-Jul-2025 10:59:18.290 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jul-2025 10:59:18.290 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jul-2025 10:59:18.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jul-2025 10:59:18.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jul-2025 10:59:18.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42
+01-Jul-2025 10:59:18.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42
+01-Jul-2025 10:59:18.292 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\temp
+01-Jul-2025 10:59:18.294 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.9] using APR version [1.7.6].
+01-Jul-2025 10:59:18.298 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.0 8 Apr 2025]
+01-Jul-2025 10:59:18.668 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Jul-2025 10:59:18.700 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [827] milliseconds
+01-Jul-2025 10:59:18.741 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Jul-2025 10:59:18.742 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.42]
+01-Jul-2025 10:59:18.750 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\docs]
+01-Jul-2025 10:59:19.075 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\docs] has finished in [325] ms
+01-Jul-2025 10:59:19.076 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\examples]
+01-Jul-2025 10:59:19.441 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\examples] has finished in [366] ms
+01-Jul-2025 10:59:19.441 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\host-manager]
+01-Jul-2025 10:59:19.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\host-manager] has finished in [31] ms
+01-Jul-2025 10:59:19.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\manager]
+01-Jul-2025 10:59:19.498 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\manager] has finished in [25] ms
+01-Jul-2025 10:59:19.498 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\ROOT]
+01-Jul-2025 10:59:19.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\ROOT] has finished in [18] ms
+01-Jul-2025 10:59:19.519 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jul-2025 10:59:19.552 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [851] milliseconds
+01-Jul-2025 11:00:02.744 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war]
+01-Jul-2025 11:00:02.799 INFO [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war] has finished in [54] ms
+01-Jul-2025 11:04:43.379 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webapp]
+01-Jul-2025 11:04:43.406 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war]
+01-Jul-2025 11:04:43.441 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war] has finished in [36] ms
+01-Jul-2025 11:04:55.155 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webapp]
+01-Jul-2025 11:04:55.165 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war]
+01-Jul-2025 11:04:55.200 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war] has finished in [35] ms
+01-Jul-2025 11:45:33.375 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webapp]
+01-Jul-2025 11:45:33.383 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war]
+01-Jul-2025 11:45:33.419 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war] has finished in [36] ms
+01-Jul-2025 11:46:37.417 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webapp]
+01-Jul-2025 11:46:37.426 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war]
+01-Jul-2025 11:46:37.459 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war] has finished in [34] ms
