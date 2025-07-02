@@ -74,8 +74,6 @@ public class FormServlet extends HttpServlet {
                 out.println("         <h4>language:" + language + "</h4>");
                 out.println("         <h4>Ty:" + ty + "</h4>");
                 out.println("         <h4>Secret:" + secret + "</h4>");
-
-
                 out.println("</body>");
                 out.println("</html>");
             }
