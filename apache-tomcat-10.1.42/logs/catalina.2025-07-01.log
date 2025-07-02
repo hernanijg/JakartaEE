@@ -55,3 +55,33 @@
 01-Jul-2025 11:46:37.417 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webapp]
 01-Jul-2025 11:46:37.426 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war]
 01-Jul-2025 11:46:37.459 INFO [http-nio-8080-exec-14] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webapp.war] has finished in [34] ms
+01-Jul-2025 14:26:39.861 INFO [http-nio-8080-exec-31] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 14:26:39.909 INFO [http-nio-8080-exec-31] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [49] ms
+01-Jul-2025 14:36:42.543 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 14:36:42.555 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 14:36:42.599 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [44] ms
+01-Jul-2025 14:37:10.641 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 14:37:10.651 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 14:37:10.695 INFO [http-nio-8080-exec-38] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [44] ms
+01-Jul-2025 14:38:09.922 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 14:38:09.931 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 14:38:09.967 INFO [http-nio-8080-exec-40] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [35] ms
+01-Jul-2025 14:38:50.518 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 14:38:50.527 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 14:38:50.574 INFO [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [47] ms
+01-Jul-2025 14:40:04.246 INFO [http-nio-8080-exec-48] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 14:40:04.254 INFO [http-nio-8080-exec-48] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 14:40:04.294 INFO [http-nio-8080-exec-48] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [40] ms
+01-Jul-2025 15:04:51.409 INFO [http-nio-8080-exec-56] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 15:04:51.417 INFO [http-nio-8080-exec-56] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 15:04:51.458 INFO [http-nio-8080-exec-56] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [41] ms
+01-Jul-2025 15:11:34.752 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 15:11:34.761 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 15:11:34.801 INFO [http-nio-8080-exec-66] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [40] ms
+01-Jul-2025 15:14:28.907 INFO [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webappform]
+01-Jul-2025 15:14:28.915 INFO [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war]
+01-Jul-2025 15:14:28.956 INFO [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappform.war] has finished in [41] ms
+01-Jul-2025 15:28:39.477 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Jul-2025 15:28:39.482 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+01-Jul-2025 15:28:39.494 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Jul-2025 15:28:39.513 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

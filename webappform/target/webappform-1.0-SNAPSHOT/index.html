@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Form</title>
+</head>
+<body>
+<form action="/webappform/register" method="post">
+       <div>
+           <label for="username" > Username </label>
+           <div> <input type="text" name="username" id="username"> </div>
+       </div>
+    <div>
+        <label for="password" > Password </label>
+        <div> <input type="password" name="password" id="password"> </div>
+    </div>
+    <div>
+        <label for="email" > Email </label>
+        <div> <input type="email" name="email" id="email"> </div>
+    </div>
+
+    <div>
+        <label for="country"> Country </label>
+        <div>
+            <select name="country" id="country">
+                <option value="">-- Select -- </option>
+                <option value="ES">Espana</option>
+                <option value="MX">Mexico</option>
+                <option value="AR">Argentina</option>
+                <option value="VE" selected>Venezuela</option>
+                <option value="CO">Colombia</option>
+            </select>
+        </div>
+    </div>
+
+    <div>
+        <label for="languages"> Programming languages </label>
+        <div>
+            <select name="languages" id="languages" multiple>
+                <option value="java" selected>Java SE</option>
+                <option value="jakarta">Jakarta</option>
+                <option value="java">Spring Boot</option>
+                <option value="java">Python</option>
+                <option value="java">Javascript</option>
+                <option value="java">Rust</option>
+                <option value="java" selected>C++</option>
+            </select>
+        </div>
+    </div>
+
+    <div>
+        <label> Rol </label>
+        <div>
+            <input type="checkbox" name="roles" value="ROLE_ADMIN" checked>
+            <label> Admin </label>
+        </div>
+        <div>
+            <input type="checkbox" name="roles" value="USER">
+            <label> User </label>
+        </div>
+        <div>
+            <input type="checkbox" name="roles" value="MODERATE">
+            <label> Moderate </label>
+        </div>
+    </div>
+
+    <div>
+        <div>
+            <input type="submit" value="send">
+        </div>
+    </div>
+
+</form>
+</body>
+</html>
