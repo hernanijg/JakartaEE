@@ -1,0 +1,49 @@
+02-Jul-2025 15:58:20.706 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+02-Jul-2025 15:58:20.706 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+02-Jul-2025 15:58:20.708 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 15:58:20.708 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 16:02:13.690 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 16:02:13.691 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 16:05:58.428 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 16:05:58.428 INFO [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 16:06:16.497 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 16:06:16.497 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 16:08:10.635 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 16:08:10.636 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 16:10:49.486 INFO [http-nio-8080-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 16:10:49.486 INFO [http-nio-8080-exec-24] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 16:16:02.509 INFO [http-nio-8080-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 16:16:02.509 INFO [http-nio-8080-exec-33] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:37:19.898 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+02-Jul-2025 17:37:19.898 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+02-Jul-2025 17:37:19.899 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:37:19.899 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:38:42.330 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:38:42.330 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:38:50.911 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:38:50.912 INFO [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:39:17.776 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+02-Jul-2025 17:39:17.776 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+02-Jul-2025 17:39:17.784 INFO [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+02-Jul-2025 17:39:34.869 INFO [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:39:34.869 INFO [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:39:56.974 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:39:56.974 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:40:20.572 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:40:20.572 INFO [http-nio-8080-exec-18] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:52:49.795 INFO [http-nio-8080-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:52:49.795 INFO [http-nio-8080-exec-29] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:53:17.891 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:53:17.891 INFO [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 17:59:24.054 INFO [http-nio-8080-exec-42] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 17:59:24.054 INFO [http-nio-8080-exec-42] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 18:06:45.141 INFO [http-nio-8080-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 18:06:45.142 INFO [http-nio-8080-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 18:15:05.226 INFO [http-nio-8080-exec-63] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 18:15:05.226 INFO [http-nio-8080-exec-63] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 18:42:04.699 INFO [http-nio-8080-exec-72] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 18:42:04.699 INFO [http-nio-8080-exec-72] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 18:42:28.893 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 18:42:28.893 INFO [http-nio-8080-exec-81] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
+02-Jul-2025 18:42:46.052 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/webappHeaders'
+02-Jul-2025 18:42:46.052 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\webappHeaders.war.tmp
