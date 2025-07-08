@@ -21,6 +21,8 @@
     <%}
 %>
 
+<% %>
+
 <form action="/webappform/register" method="post">
        <div>
            <label for="username" > Username </label>
