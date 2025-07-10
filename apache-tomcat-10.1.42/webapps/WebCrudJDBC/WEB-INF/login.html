@@ -1,4 +1,3 @@
-<%@ page session="true" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,26 +7,18 @@
 <body>
     <h1>Login</h1>
 
-<%@ page import="java.util.Map" %>
+        <%
+        List<String> errors = (List<String>) session.getAttribute("errors");
+            if (errors != null) {
+            for (String error : errors) {
+        %>
+            <div class="error"><%= error %></div>
+        <% }} %>
 
-<%
-    Object obj = session.getAttribute("errors");
-    if (obj != null && obj instanceof Map) {
-        Map<String, String> errors = (Map<String, String>) obj;
-        for (String key : errors.keySet()) {
-%>
-    <div style="color:red;"><%= errors.get(key) %></div>
-<%
-        }
-        session.removeAttribute("errors");
-    }
-%>
-
-    <form method="post"  action="<%= request.getContextPath() %>/login">
+    <form method="post" action="/WebCrudJDBC/login">
         <div>
             <label for="email">Email</label>
             <div><input type="email" name="email" id="email"></div>
-
         </div>
         <div>
             <label for="password">Password</label>

@@ -1,0 +1,57 @@
+08-Jul-2025 17:51:13.652 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+08-Jul-2025 17:51:13.652 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+08-Jul-2025 17:51:13.660 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+08-Jul-2025 17:51:31.081 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+08-Jul-2025 17:51:31.081 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+08-Jul-2025 17:51:31.083 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 17:51:31.083 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 18:52:15.609 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 18:52:15.609 INFO [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 18:53:54.480 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 18:53:54.480 INFO [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 18:55:17.784 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 18:55:17.784 INFO [http-nio-8080-exec-19] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 18:56:06.855 INFO [http-nio-8080-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 18:56:06.855 INFO [http-nio-8080-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 18:56:41.834 INFO [http-nio-8080-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 18:56:41.834 INFO [http-nio-8080-exec-25] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 18:58:54.397 INFO [http-nio-8080-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 18:58:54.397 INFO [http-nio-8080-exec-39] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 19:00:52.034 INFO [http-nio-8080-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 19:00:52.034 INFO [http-nio-8080-exec-48] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 19:48:52.139 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 19:48:52.139 INFO [http-nio-8080-exec-58] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 19:49:35.638 INFO [http-nio-8080-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 19:49:35.638 INFO [http-nio-8080-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 19:53:37.174 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 19:53:37.174 INFO [http-nio-8080-exec-78] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 19:55:10.341 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 19:55:10.342 INFO [http-nio-8080-exec-85] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 19:56:59.709 INFO [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 19:56:59.709 INFO [http-nio-8080-exec-90] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 19:57:43.828 INFO [http-nio-8080-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 19:57:43.829 INFO [http-nio-8080-exec-89] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:00:33.787 INFO [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:00:33.787 INFO [http-nio-8080-exec-101] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:02:32.326 INFO [http-nio-8080-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:02:32.326 INFO [http-nio-8080-exec-106] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:05:01.779 INFO [http-nio-8080-exec-119] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:05:01.779 INFO [http-nio-8080-exec-119] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:06:33.148 INFO [http-nio-8080-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:06:33.148 INFO [http-nio-8080-exec-127] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:09:23.115 INFO [http-nio-8080-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:09:23.116 INFO [http-nio-8080-exec-135] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:10:34.293 INFO [http-nio-8080-exec-146] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:10:34.294 INFO [http-nio-8080-exec-146] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:10:45.312 INFO [http-nio-8080-exec-142] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:10:45.312 INFO [http-nio-8080-exec-142] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:11:27.773 INFO [http-nio-8080-exec-150] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:11:27.773 INFO [http-nio-8080-exec-150] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:12:48.665 INFO [http-nio-8080-exec-162] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:12:48.665 INFO [http-nio-8080-exec-162] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:19:24.711 INFO [http-nio-8080-exec-169] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:19:24.711 INFO [http-nio-8080-exec-169] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:32:44.152 INFO [http-nio-8080-exec-175] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:32:44.152 INFO [http-nio-8080-exec-175] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
+08-Jul-2025 20:34:08.842 INFO [http-nio-8080-exec-185] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/WebCrudJDBC'
+08-Jul-2025 20:34:08.843 INFO [http-nio-8080-exec-185] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\Zago\Documents\Github Projects\JakartaEE\apache-tomcat-10.1.42\webapps\WebCrudJDBC.war.tmp
